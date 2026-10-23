@@ -73,30 +73,22 @@
 </p>
 
 ---
-
-<h2 align="center">📊 Languages We Use Most</h2>
-
-<p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEAM_LEAD_USERNAME&layout=compact&langs_count=8&theme=default&border_color=2E5DAA" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEAM_MEMBER_2_USERNAME&layout=compact&langs_count=8&theme=default&border_color=2E5DAA" />
-</p>
-
----
-
-<h2 align="center">📈 Our Commit Activity</h2>
+<h2 align="center">📈 ReleaseShield Commit Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TEAM_LEAD_USERNAME&bg_color=ffffff&color=2E5DAA&line=2E5DAA&point=2E5DAA&area=true&area_color=2E5DAA&hide_border=true" width="95%" />
+  <img src="https://img.shields.io/github/commit-activity/m/Team-Algorithm/ReleaseSheild_EPAM-Project?style=for-the-badge&color=2E5DAA&label=Commits%20/%20month" />
+  <img src="https://img.shields.io/github/last-commit/Team-Algorithm/ReleaseSheild_EPAM-Project?style=for-the-badge&color=2E5DAA" />
+  <img src="https://img.shields.io/github/contributors/Team-Algorithm/ReleaseSheild_EPAM-Project?style=for-the-badge&color=2E5DAA" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TEAM_LEAD_USERNAME&show_icons=true&theme=default&border_color=2E5DAA&count_private=true" />
-  <img height="170" src="https://streak-stats.demolab.com/?user=TEAM_LEAD_USERNAME&theme=default&border=2E5DAA&hide_border=false" />
+  <a href="https://github.com/Team-Algorithm/ReleaseSheild_EPAM-Project/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=Team-Algorithm/ReleaseSheild_EPAM-Project" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-lang?username=TEAM_LEAD_USERNAME&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TEAM_LEAD_USERNAME&theme=default&utcOffset=5.5" />
+  <a href="https://github.com/Team-Algorithm/ReleaseSheild_EPAM-Project/commits/main">View full commit history →</a>
 </p>
 
 ---
@@ -104,9 +96,9 @@
 <h2 align="center">🤝 Connect With Us</h2>
 
 <p align="center">
-  <a href="https://github.com/YOUR_ORG_NAME"><img src="https://img.shields.io/badge/GitHub-Org-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Team-Algorithm/"><img src="https://img.shields.io/badge/GitHub-Org-181717?style=for-the-badge&logo=github" /></a>
   <a href="https://www.linkedin.com/company/YOUR_PAGE"><img src="https://img.shields.io/badge/LinkedIn-Team-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:team@example.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="tejalmishra1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>Built with ☕ and curiosity by Team Algorithm · LNCT Group of Colleges × EPAM COE</i></p>
