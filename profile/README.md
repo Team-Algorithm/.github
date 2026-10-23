@@ -23,33 +23,20 @@
 </p>
 
 ---
-
 <h2 align="center">🚀 Top Repositories</h2>
 
 <p align="center">
-  <a href="https://github.com/YOUR_ORG_NAME/REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_ORG_NAME&repo=REPO_1&theme=default&border_color=2E5DAA&hide_border=false" />
-  </a>
-  <a href="https://github.com/YOUR_ORG_NAME/REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_ORG_NAME&repo=REPO_2&theme=default&border_color=2E5DAA&hide_border=false" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/YOUR_ORG_NAME/REPO_3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_ORG_NAME&repo=REPO_3&theme=default&border_color=2E5DAA&hide_border=false" />
-  </a>
-  <a href="https://github.com/YOUR_ORG_NAME/REPO_4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_ORG_NAME&repo=REPO_4&theme=default&border_color=2E5DAA&hide_border=false" />
+  <a href="https://github.com/Team-Algorithm/ReleaseSheild_EPAM-Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Team-Algorithm&repo=ReleaseSheild_EPAM-Project&theme=default&border_color=2E5DAA&hide_border=false" alt="ReleaseShield" />
   </a>
 </p>
 
 ---
-
 <h2 align="center">👥 The Team</h2>
 
 <table align="center">
   <tr>
-    <td align="center"><a href="https://github.com/USER_1"><img src="https://github.com/USER_1.png?size=100" width="100" style="border-radius:50%"/><br/><b>Name 1</b></a><br/><sub>Domain</sub></td>
+    <td align="center"><a href="https://github.com/USER_1"><img src="https://avatars.githubusercontent.com/u/209719723?s=400&u=4a17ac07221cb9df0489a5da73474db97129ca0c&v=4" width="100" style="border-radius:50%"/><br/><b>Tejal Mishra</b></a><br/><sub>Team Lead</sub></td>
     <td align="center"><a href="https://github.com/USER_2"><img src="https://github.com/USER_2.png?size=100" width="100" style="border-radius:50%"/><br/><b>Name 2</b></a><br/><sub>Domain</sub></td>
     <td align="center"><a href="https://github.com/USER_3"><img src="https://github.com/USER_3.png?size=100" width="100" style="border-radius:50%"/><br/><b>Name 3</b></a><br/><sub>Domain</sub></td>
     <td align="center"><a href="https://github.com/USER_4"><img src="https://github.com/USER_4.png?size=100" width="100" style="border-radius:50%"/><br/><b>Name 4</b></a><br/><sub>Domain</sub></td>
