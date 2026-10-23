@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_ORG_NAME&label=Org%20views&color=2E5DAA&style=flat" alt="views" />
   <img src="https://img.shields.io/badge/EPAM-COE%20Program-39C2D7?style=flat" alt="EPAM COE" />
   <img src="https://img.shields.io/badge/LNCT-Group%20of%20Colleges-2E5DAA?style=flat" alt="LNCT" />
   <img src="https://img.shields.io/badge/Members-12-success?style=flat" alt="members" />
