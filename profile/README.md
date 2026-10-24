@@ -37,7 +37,7 @@
   <tr>
     <td align="center"><a href="https://github.com/tejal-mi"><img src="https://avatars.githubusercontent.com/u/209719723?s=400&u=4a17ac07221cb9df0489a5da73474db97129ca0c&v=4" width="100" style="border-radius:50%"/><br/><b>Tejal Mishra</b></a><br/><sub>Team Lead & Technical Architect</sub></td>
     <td align="center"><a href="https://github.com/USER_2"><img src="https://avatars.githubusercontent.com/u/228004697?s=400&u=2cffffe93e189020d8ebb2b5fab03908896b8bec&v=4" width="100" style="border-radius:50%"/><br/><b>Adarsh Choubey </b></a><br/><sub>Tool Integration engineer</sub></td>
-    <td align="center"><a href="https://github.com/USER_3"><img src="https://github.com/USER_3.png?size=100" width="100" style="border-radius:50%"/><br/><b>Name 3</b></a><br/><sub>Domain</sub></td>
+    <td align="center"><a href="https://github.com/rangita10"><img src="https://github.com/rangita10.png?size=100" width="100" style="border-radius:50%"/><br/><b>Rangita Shah</b></a><br/><sub>Domain</sub></td>
     <td align="center"><a href="https://github.com/USER_4"><img src="https://github.com/USER_4.png?size=100" width="100" style="border-radius:50%"/><br/><b>Name 4</b></a><br/><sub>Domain</sub></td>
   </tr>
   <tr>
