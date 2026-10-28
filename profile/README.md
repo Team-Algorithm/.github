@@ -41,16 +41,17 @@
     <td align="center"><a href="https://github.com/Atul-Gupta-86"><img src="https://avatars.githubusercontent.com/u/237303489?v=4" width="100" style="border-radius:50%"/><br/><b>Atul Gupta</b></a><br/><sub>Containerization Engineer</sub></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/USER_5"><img src="https://github.com/USER_5.png?size=100" width="100" style="border-radius:50%"/><br/><b>Name 5</b></a><br/><sub>Domain</sub></td>
-    <td align="center"><a href="https://github.com/USER_6"><img src="https://github.com/USER_6.png?size=100" width="100" style="border-radius:50%"/><br/><b>Name 6</b></a><br/><sub>Domain</sub></td>
-    <td align="center"><a href="https://github.com/USER_7"><img src="https://github.com/USER_7.png?size=100" width="100" style="border-radius:50%"/><br/><b>Name 7</b></a><br/><sub>Domain</sub></td>
-    <td align="center"><a href="https://github.com/USER_8"><img src="https://github.com/USER_8.png?size=100" width="100" style="border-radius:50%"/><br/><b>Name 8</b></a><br/><sub>Domain</sub></td>
+    <td align="center"><a href="https://github.com/Krishna-1551"><img src="https://avatars.githubusercontent.com/u/310859247?v=4" width="100" style="border-radius:50%"/><br/><b>Krishna Kumar</b></a><br/><sub>SARIF Validation Engineer</sub></td>
+    <td align="center"><a href="https://github.com/Poonam-Yadav-git"><img src="https://media.licdn.com/dms/image/v2/D5603AQESXJjVwV7wFQ/profile-displayphoto-crop_800_800/B56ZonKoPIJwAI-/0/1761593693144?e=1795046400&v=beta&t=eB2sjgKg6JvX7_MM38DW6Sm05EJLrvVm4tC6WLHuo70" width="100" style="border-radius:50%"/><br/><b>Poonam Yadav</b></a><br/><sub>Testing Engineer</sub></td>
+<td align="center"><a href="https://github.com/anurag31003pathak-droid"><img src="https://avatars.githubusercontent.com/u/225054536?v=4" width="100" style="border-radius:50%"/><br/><b>Anurag Pathak</b></a><br/><sub>SARIF Engineer</sub></td>
+    <td align="center"><a href="https://github.com/AnishaDhanwani"><img src="https://avatars.githubusercontent.com/u/206435069?v=4" width="100" style="border-radius:50%"/><br/><b>Anisha Dhanwani</b></a><br/><sub>SARIF Merger Engineer</sub></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/USER_9"><img src="https://github.com/USER_9.png?size=100" width="100" style="border-radius:50%"/><br/><b>Name 9</b></a><br/><sub>Domain</sub></td>
-    <td align="center"><a href="https://github.com/USER_10"><img src="https://github.com/USER_10.png?size=100" width="100" style="border-radius:50%"/><br/><b>Name 10</b></a><br/><sub>Domain</sub></td>
-    <td align="center"><a href="https://github.com/USER_11"><img src="https://github.com/USER_11.png?size=100" width="100" style="border-radius:50%"/><br/><b>Name 11</b></a><br/><sub>Domain</sub></td>
-    <td align="center"><a href="https://github.com/USER_12"><img src="https://github.com/USER_12.png?size=100" width="100" style="border-radius:50%"/><br/><b>Name 12</b></a><br/><sub>Domain</sub></td>
+    <td align="center"><a href="https://github.com/Nandinigupta6568"><img src="https://media.licdn.com/dms/image/v2/D4D03AQE3P_52iSSiJw/profile-displayphoto-crop_800_800/B4DaGD.iesGYAM-/0/1793215574371?e=1795046400&v=beta&t=wtIRGt2p2aLn4XX7-Sd1bc1t5dWW8X7Xfm6uxzq_OPs" width="100" style="border-radius:50%"/><br/><b>Nandini Gupta</b></a><br/><sub>Tool Integration & Testing</sub></td>
+    <td align="center"><a href="https://github.com/abhinaykourav11-gif"><img src="https://media.licdn.com/dms/image/v2/D5603AQFmhNMD3bkXaQ/profile-displayphoto-crop_800_800/B56Z359A5gKwAI-/0/1778015015778?e=1795046400&v=beta&t=KgetT1BKgdTfhRyuAu1DfS8gYFKNWFKGQRaaX0fbyPA" width="100" style="border-radius:50%"/><br/><b>Abhinay Kourav</b></a><br/><sub>Tool testing Engineer</sub></td>
+    <td align="center"><a href="https://github.com/shailja006"><img src="https://media.licdn.com/dms/image/v2/D4D03AQHK_nhyvBHGQQ/profile-displayphoto-crop_800_800/B4DaDE8KSsLAAM-/0/1790010502268?e=1795046400&v=beta&t=mD3N0QPlpzdIqFmzJ6lcxIu8lRlG2f9fwznUdxkOI0I" width="100" style="border-radius:50%"/><br/><b>Shailja Chaturvedi</b></a><br/><sub>Documentation & Planning</sub></td>
+    <td align="center"><a href="https://github.com/Ankitcodes30
+"><img src="https://avatars.githubusercontent.com/u/256811297?s=96&v=4" width="100" style="border-radius:50%"/><br/><b>Ankit Kumbhare</b></a><br/><sub>CLI Developer</sub></td>
   </tr>
 </table>
 
