@@ -35,10 +35,10 @@
 
 <table align="center">
   <tr>
-    <td align="center"><a href="https://github.com/tejal-mi"><img src="https://avatars.githubusercontent.com/u/209719723?s=400&u=4a17ac07221cb9df0489a5da73474db97129ca0c&v=4" width="100" style="border-radius:50%"/><br/><b>Tejal Mishra</b></a><br/><sub>Team Lead & Technical Architect</sub></td>
+    <td align="center"><a href="https://github.com/tejal-mi"><img src="https://avatars.githubusercontent.com/u/209719723?s=400&u=4a17ac07221cb9df0489a5da73474db97129ca0c&v=4" width="100" style="border-radius:50%"/><br/><b>Tejal Mishra</b></a><br/><sub>Technical Architect & Core Developer</sub></td>
     <td align="center"><a href="https://github.com/USER_2"><img src="https://avatars.githubusercontent.com/u/228004697?s=400&u=2cffffe93e189020d8ebb2b5fab03908896b8bec&v=4" width="100" style="border-radius:50%"/><br/><b>Adarsh Choubey </b></a><br/><sub>Gitleaks Tool Integration</sub></td>
     <td align="center"><a href="https://github.com/rangita10"><img src="https://github.com/rangita10.png?size=100" width="100" style="border-radius:50%"/><br/><b>Rangita Shah</b></a><br/><sub>SemGrep Tool Integration</sub></td>
-    <td align="center"><a href="https://github.com/Atul-Gupta-86"><img src="https://avatars.githubusercontent.com/u/237303489?v=4" width="100" style="border-radius:50%"/><br/><b>Atul Gupta</b></a><br/><sub>Containerization Engineer</sub></td>
+    <td align="center"><a href="https://github.com/Atul-Gupta-86"><img src="https://avatars.githubusercontent.com/u/237303489?v=4" width="100" style="border-radius:50%"/><br/><b>Atul Gupta</b></a><br/><sub>Team Lead</sub></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Krishna-1551"><img src="https://avatars.githubusercontent.com/u/310859247?v=4" width="100" style="border-radius:50%"/><br/><b>Krishna Kumar</b></a><br/><sub>SARIF Validation Engineer</sub></td>
